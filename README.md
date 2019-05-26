@@ -9,7 +9,7 @@ An illustration to identify face with [Haarcascade](https://github.com/Sagn1k/Fa
 
 ### Final Code:
 
-  [Record Face](https://github.com/zephyr007/face_Recognition-KNN/blob/master/record_faces.py/record_faces.py)
+  [Record Face](https://github.com/zephyr007/face_Recognition-KNN/blob/master/record_faces.py)
   Save different faces everytime.
   
   [Recognize Face](https://github.com/zephyr007/face_Recognition-KNN/blob/master/face_recog.py)
